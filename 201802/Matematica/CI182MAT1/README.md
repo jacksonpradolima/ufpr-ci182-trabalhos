@@ -80,16 +80,16 @@ Trabalhos apresentados pela turma MAT1 da disciplina CI182.
 	    - Mateus Balotin
 
 ## Ordem das Apresentações
-1 - Clube de duas Winks
-2 - Os que não enviam a atividade pro Professor
-3 - While True: print(“Despair”)
-4 - Teorema de Fermat
-5 - Tríplice Sincrética
-6 - Eru
-7 - GP
-8 - Honrados
-9 - Três espiãs demais
-10 - The Undecided
-11 - Os Procastinadores
-12 - J(A(T(x)))
-13 - Chitãozinho e Xororó
+1. Clube de duas Winks
+2. Os que não enviam a atividade pro Professor
+3. While True: print(“Despair”)
+4. Teorema de Fermat
+5. Tríplice Sincrética
+6. Eru
+7. GP
+8. Honrados
+9. Três espiãs demais
+10. The Undecided
+11. Os Procastinadores
+12. J(A(T(x)))
+13. Chitãozinho e Xororó

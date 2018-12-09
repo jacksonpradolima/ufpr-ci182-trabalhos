@@ -1,0 +1,71 @@
+# CI182 - Fundamentos de Programação de Computadores (UFPR) - Turma B
+
+Trabalhos apresentados pela turma B da disciplina CI182.
+
+## Grupos
+- G1
+	- Tema: Analisador de Produtividade Média de Grãos de Soja ou Milho
+	- Integrantres:
+	    - Bianca Maria Chastalo
+	    - July Caroline Lopes de Andrade
+- G2
+	- Tema: Sistema de Irrigação Automatizado com o uso de Raspberry Pi
+	- Integrantres:
+	    - Jéssica Suelen de Souza Granja
+	    - Thais Buwai Lucif
+- G4
+	- Tema: Jogo da Forca
+	- Integrantres:
+	    - Emanuele Kleinschmidt Kopke
+- G5
+	- Tema: Jogo Snake usando PyGame
+	- Integrantres:
+	    - Diogo de Lima Nunes Zerbini
+	    - Cleison Patrik Biel
+	    - Guilherme de Souza Sotsek
+- G6
+	- Tema: Sistema de Controle da Produção de Aves
+	- Integrantres:
+	    - Jéssica Gabriela Mika
+	    - Eduardo Luiz Soinski
+	    - Giovanni Mion
+- G7
+	- Tema: Sistema de Controle de Estacionamento
+	- Integrantres:
+	    - Jéssica Maria Moreira dos Santos
+	    - Gabrieli Polochenski
+	    - Thaiz Milenna Dias
+- G8
+	- Tema: Sistema de Controle Nutricional para Gado de Corte e de Leite
+	- Integrantres:
+	    - Julia de Souza Almeida
+	    - Gabriela Schmicheck
+	    - Cleiton Pastório
+- G10
+	- Tema: Sistema de Biblioteca
+	- Integrantres:
+	    - Thais Trajano da Silva
+	    - Ana Maria Deminciano Lima
+	    - Juliana Sardi Fernandes
+- G11
+	- Tema: Sistema de Gerenciamento de Estoque
+	- Integrantres:
+	    - Otávio Raul Speltz
+	    - Bruno Augusto Lopes Pereira
+	    - Guilherme Cervi Paraboni
+- G12
+	- Tema: Calculadora Topográfica
+	- Integrantres:
+	    - Fernando Cesar Berno Viana
+	    - Gustavo Ribeiro de Godoy
+- G13
+	- Tema: Corretor de Ph do Solo
+	- Integrantres:
+	    - Gustavo da Silva Nascimento
+	    - Kelly Knoblauch
+- G14
+	- Tema: Analisador de Capacidade do uso do Solo
+	- Integrantres:
+	    - João Pedro de Barros Leinecker
+	    - Eduarda Keruk Possoli
+	    - Thiago Henrique de Oliveira

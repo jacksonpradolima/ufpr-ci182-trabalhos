@@ -1,0 +1,66 @@
+# CI182 - Fundamentos de Programação de Computadores (UFPR) - Turma CI182A
+
+Trabalhos apresentados pela turma A da disciplina CI182 no primeiro semestre de 2019.
+
+## Grupos
+- 4 queijos, parmegiana e floresta negra
+	- Tema: Sistema para pedidos de pizza
+	- Integrantres:
+	    - Matheus Dal Pereira
+	    - Thiago Bertolin Novatski
+	    - Thiago Carvalho Berça
+- Agropops
+	- Tema: Sistema de Controle de Estocagem e Armazenamento
+	- Integrantres:
+	    - Victor Hugo Basegio
+	    - Rogerio Antonio Pinto da Silva Filho
+- Animal Planet
+	- Tema: Restaurante em Python
+	- Integrantres:
+	    - Victor Luiz Rodrigues Silva
+	    - Mariana Pacheco Teixeira de Carvalho
+	    - Valdemir Rissati Martins Junior
+- Bangadlesh
+	- Tema: Space Invaders
+	- Integrantres:
+	    - Catherine da Silveira Fleischmann
+	    - Vitor Alves de Oliveira Tamaoki
+- Cube Zero
+	- Tema: Resolução Computacional do Cubo Mágico em Python
+	- Integrantres:
+	    - Rafael Kurzlop Brunkow
+- Era do Gelo
+	- Tema: Monitoramento de temperatura e umidade em ambientes 
+	- Integrantres:
+	    - Clarissa Grebogi Bilyk
+	    - Myllena Lacerda dos Santos
+	    - Vanessa Roncovsky
+- Fiurino Pancadão
+	- Tema: Adubação e calagem através de Python 3
+	- Integrantres:
+	    - Hugo Carlos Gouveia de Sá
+	    - Nicolas Vieira Carneiro
+	    - Victor Hugo Farias Camargo
+	    - Yuri Cetnarski Mikos
+- Frozen
+	- Tema: Protótipo de Estufa com Atmosfera Controlada por Programação em Python
+	- Integrantres:
+	    - Matheus Dias de Macedo
+	    - Natali Reinauer Ribeiro
+	    - Sarah Schnitzler
+- Polly Pocs
+	- Tema: Jogo da Forca em Python
+	- Integrantres:
+	    - Alice Ambrozewicz Leoni Moreira
+	    - Júlia Sant'ana
+	    - Rafaela Dembiski Lopes
+- Recolhê os Píla
+	- Tema: Bot do Telegram sobre Plantas Medicinais
+	- Integrantres:
+	    - Izadora Gulin Marodim
+	    - Nicolly Campezi Xavier
+	    - Vinicius Charneki
+- X-Salada
+	- Tema: Programa para auxílio na calagem e adubação de acordo com a análise do solo
+	- Integrantres:
+	    - Alberto Kawasaki

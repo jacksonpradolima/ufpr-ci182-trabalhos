@@ -1,0 +1,11 @@
+python extract_embeddings.py -i dataset -e output/embeddings.pickle -d face_detection_model -m openface_nn4.small2.v1.t7
+
+python train_model.py -e output/embeddings.pickle -r output/recognizer.pickle -l output/le.pickle
+
+python recognize.py -d face_detection_model	-m openface_nn4.small2.v1.t7 -r output/recognizer.pickle -l output/le.pickle -i images/adrian.jpg
+python recognize.py -d face_detection_model	-m openface_nn4.small2.v1.t7 -r output/recognizer.pickle -l output/le.pickle -i images/g01.jpg
+
+python recognize_video.py -d face_detection_model -m openface_nn4.small2.v1.t7 -r output/recognizer.pickle -l output/le.pickle
+
+python recognize.py --detector face_detection_model --embedding-model openface_nn4.small2.v1.t7 --recognizer output/recognizer.pickle --le output/le.pickle --image images/adrian.jpg
+python recognize.py --detector face_detection_model --embedding-model openface_nn4.small2.v1.t7 --recognizer output/recognizer.pickle --le output/le.pickle --image images/trisha.jpg

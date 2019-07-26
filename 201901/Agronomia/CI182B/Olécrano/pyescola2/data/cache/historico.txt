@@ -1,0 +1,26 @@
+
+Resposta: asdfr / gabarito: cervical zigomatico / pontuação: 0.0
+Resposta: asdr / gabarito: sacro ocipital / pontuação: 0.0
+Resposta: fossa / gabarito: atlas maxilar / pontuação: 0.0
+Resposta:  / gabarito: atlas maxilar / pontuação: 0.0
+Resposta: tttt / gabarito: atlas maxilar / pontuação: 0.0
+Resposta: eee / gabarito: bula timpânica / pontuação: 0.0
+Resposta:  / gabarito: bula timpânica / pontuação: 0.0
+Resposta:  / gabarito: bula timpânica / pontuação: 0.0
+Resposta: 1 / gabarito: processo transverso / pontuação: 0.0
+Resposta: a / gabarito: processo transverso / pontuação: 0.0
+Resposta: b / gabarito: condilo lateral / pontuação: 0.0
+Resposta: c / gabarito: terceiro trocanter / pontuação: 0.0
+Resposta: d / gabarito: corpo da ulna / pontuação: 0.0
+Resposta: f / gabarito: crista sacral mediana / pontuação: 0.0
+Resposta: a / gabarito: osso occipital / pontuação: 0.0
+Resposta: b / gabarito: condilo lateral / pontuação: 0.0
+Resposta: vvv / gabarito: trocanter menor / pontuação: 0.0
+Resposta: cc / gabarito: condilo medial / pontuação: 0.0
+Resposta: osso nasal / gabarito: osso nasal / pontuação: 1.0
+Resposta: fibula / gabarito: fibula / pontuação: 2.0
+Resposta: ii / gabarito: processo transverso / pontuação: 2.0
+Resposta: iii / gabarito: terceiro trocanter / pontuação: 2.0
+Resposta: oo / gabarito: processo espinhoso / pontuação: 2.0
+Resposta:  / gabarito: processo espinhoso / pontuação: 2.0
+Resposta: meta carpo / gabarito: falange distal / pontuação: 2.0

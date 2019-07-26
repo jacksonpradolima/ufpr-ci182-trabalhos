@@ -1,0 +1,74 @@
+# CI182 - Fundamentos de Programação de Computadores (UFPR) - Turma CI182B
+
+Trabalhos apresentados pela turma B da disciplina CI182 no primeiro semestre de 2019.
+
+## Grupos
+- 4x4 Turbo Intercooler
+	- Tema: Bot do Twitter 
+	- Integrantres:
+	    - Bruno Kimura
+	    - Fabricio Lezan Kuyava
+- Ateu_dispor.py
+	- Tema: Gerador de Dados no Telegram
+	- Integrantres:
+	    - Alessandra Suota Slaga
+	    - Bruno Roberto de Moraes
+- Garotos de Programa
+	- Tema: Reconhecimento Facial
+	- Integrantres:
+	    - Alessandro Lick Cordeiro
+	    - Giovanni Geraldo Szychta
+	    - Luca Raphael Martins
+- iFish
+	- Tema: iFish
+	- Integrantres:
+	    - Henrique Borgatto Bim
+	    - Lucas Lima Utrabo
+- Lordes do Tempo
+	- Tema: Previsão do Tempo com Telegram Bot
+	- Integrantres:
+	    - Elias Makoto
+	    - Renato Hopfer Toniolo
+	    - Marcos Paulo Novachaelly
+- Não sei
+	- Tema: Formulário em Python
+	- Integrantres:
+	    - Artur Vanzella
+	    - Guilherme Zanoni Carvalho
+- Olécrano
+	- Tema: Material de Apoio para Estudo de Osteologia de Animais Domésticos
+	- Integrantres:
+	    - Alersson Jose Niviadomski
+	    - Guilherme Francisco Santos Kisielewicz
+	    - Guilherme Henrique Gobi
+- Os laranjinhas
+	- Tema: Avaliação de Calibre de Laranja por Análise de Imagem em Python
+	- Integrantres:
+	    - Alexandre Bruno dos Santos
+	    - Eduardo Ribeiro Mayer
+	    - Marcio Antonio
+- Ovino
+	- Tema: Cálculo Nutricional de Ovino de COrte Confinado
+	- Integrantres:
+	    - Bruno Gonçalves de Oliveira
+	    - Kerolaine Woitchik
+- Sem tempo irmão
+	- Tema: Estoque de Peças
+	- Integrantres:
+	    - Lucas Baumgartner
+	    - João Henrique da Silva
+- Spice Girls
+	- Tema: Nutrição de Bovinos Leiteiros em Python
+	- Integrantres:
+	    - Caroline Rusch Schulze
+	    - Emanuely da Silva
+- Stoned lions
+	- Tema: Estimação da Produção de uma População Melhorada
+	- Integrantres:
+	    - Otávio Comparsi Feijó
+	    - Pedro Paulo Rossi
+- Super Pocs
+	- Tema: Jogo da Velha em Python
+	- Integrantres:
+	    - Ana Clara Rogrigues Ferreira da Silva
+	    - Mariana Bernardo Silva

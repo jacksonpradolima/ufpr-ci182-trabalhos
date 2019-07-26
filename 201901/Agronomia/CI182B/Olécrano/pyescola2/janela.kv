@@ -1,0 +1,57 @@
+<janelaPrincipal>: #nome da classe
+
+    id: "principal" #identificação dela
+
+    BoxLayout: #organiza os elementos da tela, encaixandoos lado a lado esse é o pai dos outros
+        orientation: 'vertical' #organiza os filhos na vertical
+
+        BoxLayout:
+            orientation: 'horizontal' #organiza os filhos na horizontal
+            size_hint_max_y: 40 #altura maxima do box
+            size_hint_max_x: 300 #largura maxima do box
+
+
+            Button: #botão
+                text:'sair' #texto do botão
+                on_release:app.stop() #apos clicar ele fecha o programa
+                size_hint_max_x: 80 #altura maxima do botão
+            Button:
+                text:'resetar'
+                size_hint_max_x: 80
+                on_release:app.resetar(),app.stop() #reseta a pontuação e o historico e fecha o programa
+
+            Label:# serve para mostrar textos
+                text:"pontuação:" # texto do label
+                size_hint_max_x:80
+            Label:
+                id:score #identificação do label
+                text:str(app.ptn) #o texto mostrado nela é o valor da variavel "ptn"
+                size_hint_max_x:200
+
+
+        Image:
+            id:imagem
+            source: 'data/cache/output.png' #mostra a imagem mostrada no endereço
+
+        BoxLayout:
+            orientation: 'horizontal'
+            size_hint_max_y:40
+            Label:
+                text: 'nome da estrutura indicada pela seta:'
+
+            TextInput: # imput de texto do usuario
+                id:resposta
+                text:
+                multiline: False
+                size_hint_max_y: 40
+            Button:
+                text: 'salvar\nresposta'
+                on_press:app.resp(resposta.text) #manda o texto digitado para a função resp
+                on_release:resposta.text='' #apaga o texto digitado apos ele ser enviado
+                size_hint_max_x: 100
+            Button:
+                text: 'próximo'
+                on_release:app.randselec(),imagem.reload()#chama afunção para criar um novo ponto e recarrega a imagem
+                size_hint_max_x:100
+
+

@@ -1,0 +1,59 @@
+# CI182 - Fundamentos de Programação de Computadores (UFPR) - Turma CI182MAT1
+
+Trabalhos apresentados pela turma A da disciplina CI182 no primeiro semestre de 2019.
+
+## Grupos
+- A equipe que pisca/grita
+	- Tema: Medindo Distâncias com Arduíno: Módulo HC-SR04 e LED's
+	- Integrantes:
+		- Izabella Calais Fernandes
+		- Flávia Maria Schutz
+		- Thiago Batista dos Santos Martins
+		- Karen da Luz Guarnieri
+- Snake
+	- Tema: Rede Neural em Python
+	- Integrantes:
+		- Marcos Vinicius Strieder
+- Satoshi
+	- Tema: Robô Trade de Criptomoeda na Binance
+	- Integrantes:
+		- Gabriel Fanini Silva
+- Grupo Mizeze
+	- Tema: Imobiliária MZZ
+	- Integrantes:
+		- Leonardo de Souza Beraldi 
+		- Luiza Gabriela da Silva 
+		- Mateus Coelho Muzzillo 
+		- Matheus Okasaki Tonieto
+- A roupa ideal
+	- Tema: Closet Virtual
+	- Integrantes:
+		- Emanuelle Costa Ibrahim
+		- Hiroshi Caled Tashiro Ascorbe
+		- Mariana Beatriz Amarantes dos Santos
+- Truco!
+	- Tema: Jogo do "Foda-se" em Python
+	- Integrantes:
+		- Igor da Costa Medina
+		- Fernando Augusto de Lima Filho
+		- Anne Caroline Tomaz da Silva Stapaçon
+- Matrix
+	- Tema: Mini Jogos em Python
+	- Integrantes:
+		- Nil Vinícius Gonçalves de Carvalho
+		- Luana Bankersen
+		- Carlos Eduardo Stipp
+- Wubba Lubba dub dub
+	- Tema: Jogo Snake
+	- Integrantes:
+		- Isabele Ayumi Miyawaki
+- As meninas super cansadinhas
+	- Tema: Jogo dos Privilégios
+	- Integrantes:
+		- Deborah Silva Borges
+		- Letícia Ferreira Gomes
+		- Rhuana Elias Martins Aal
+- The horse dimensional cube
+	- Tema: Resolução do Cubo Mágico 3x3x3 em Python
+	- Integrantes:
+		- Isac Messias Michelon
